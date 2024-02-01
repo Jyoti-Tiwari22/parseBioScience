@@ -1,0 +1,16 @@
+.parseColor {
+    background-color: #550088;
+    height: 110px;
+    border-bottom: 1px solid #870ecf;
+}
+.connectButton {
+    background-color: #25003B;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.MainContextImage {
+    background-image: url('../assets/images/Smash.png');
+}

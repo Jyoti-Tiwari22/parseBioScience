@@ -1,8 +1,12 @@
 import React from "react";
+import "./styles/style.css"
+import Navbar from "./components/Navbar/Navbar";
+import MainContext from "./components/MainContent/MainContent";
 function App() {
   return (
-    <div>
-      <h1 className='bg-red-400'>Hi</h1>
+    <div className="relative">
+      <Navbar />
+      <MainContext />
     </div>
   );
 }
