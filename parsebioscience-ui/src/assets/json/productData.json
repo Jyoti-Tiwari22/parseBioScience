@@ -1,0 +1,48 @@
+[
+    {
+        "id": "wt",
+        "category": "Whole Transcriptome (WT)",
+        "categoryClass": "first-article",
+        "description": "Comprehensive gene expression profiling in single cells or nuclei",
+        "products": [
+            "WT MINI",
+            "WT",
+            "WT MEGA"
+        ],
+        "details": [
+            "<10K cells | 1-12 samples",
+            "10K-100K cells | 1-48 samples",
+            "100K-1M cells | 1-96 samples"
+        ]
+    },
+    {
+        "id": "additional-category",
+        "categoryClass": "second-article",
+        "products": [
+            "<10K cells |",
+            "10K-100K cells |",
+            "100K-1M cells |"
+        ],
+        "details": [
+            "1-12 samples",
+            "1-48 samples",
+            "1-96 samples"
+        ]
+    },
+    {
+        "id": "tcr",
+        "category": "TCR",
+        "categoryClass": "third-article",
+        "description": "Paired T-cell receptors plus gene expression at the single-cell level",
+        "products": [
+            "TCR MINI",
+            "TCR",
+            "TCR MEGA"
+        ],
+        "details": [
+            "<10K cells | 1-12 samples",
+            "10K-100K cells | 1-48 samples",
+            "100K-1M cells | 1-96 samples"
+        ]
+    }
+]

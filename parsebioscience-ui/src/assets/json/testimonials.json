@@ -1,0 +1,20 @@
+[
+    {
+        "id": "test-instrument",
+        "quote": "We detected rare cell types with Evercode's higher sensitivity",
+        "name": "Yi Xie",
+        "role": "Duke-NUS Medical School"
+    },
+    {
+        "id": "unmatched-data",
+        "quote": "Another insightful quote",
+        "name": "Enrico Petretto",
+        "role": "Duke-NUS Medical School"
+    },
+    {
+        "id": "cells-nuclei",
+        "quote": "Yet another impactful statement",
+        "name": "Jacques Behmoaras",
+        "role": "Duke-NUS Medical School"
+    }
+]

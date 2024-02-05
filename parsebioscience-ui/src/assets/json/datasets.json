@@ -1,0 +1,35 @@
+[
+    {
+        "id": "dataset1",
+        "category": "Technical Note",
+        "title": "Transcriptomic Analysis of a Chemotherapy Resistant Cancer Cell State",
+        "description": "More Details →",
+        "tags": [
+            "WT MIN",
+            "IPSCs"
+        ],
+        "count": 2
+    },
+    {
+        "id": "dataset2",
+        "category": "Technical Note",
+        "title": "Transcriptomic Analysis of a Chemotherapy Resistant Cancer Cell State",
+        "description": "More Details →",
+        "tags": [
+            "WT MIN",
+            "IPSCs"
+        ],
+        "count": 2
+    },
+    {
+        "id": "dataset3",
+        "category": "Technical Note",
+        "title": "Transcriptomic Analysis of a Chemotherapy Resistant Cancer Cell State",
+        "description": "More Details →",
+        "tags": [
+            "WT MIN",
+            "IPSCs"
+        ],
+        "count": 2
+    }
+]

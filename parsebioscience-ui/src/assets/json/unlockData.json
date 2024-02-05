@@ -1,0 +1,12 @@
+[
+    {
+        "id": "crispr-detect",
+        "title": "CRISPR Detect",
+        "description": "Sensitive gRNA detection with gene expression in up to 1 million cells per experiment."
+    },
+    {
+        "id": "gene-capture",
+        "title": "Gene Capture",
+        "description": "Targeted gene panels enable scale while reducing sequencing needs."
+    }
+]

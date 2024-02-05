@@ -1,0 +1,65 @@
+{
+    "address": {
+        "id": "Parse-bg",
+        "street": "700 Dexter Ave, Suite 600",
+        "city": "Seattle, WA 98109",
+        "email": "info@parsebiosciences.com"
+    },
+    "socials": [
+        {
+            "platform": "linkedin-logo",
+            "link": "#"
+        },
+        {
+            "platform": "twitter-logo",
+            "link": "#"
+        }
+    ],
+    "columns": [
+        {
+            "title": "Technology",
+            "id": -1,
+            "links": [
+                "Technology",
+                "Data Analysis"
+            ]
+        },
+        {
+            "title": "Products",
+            "id": 2,
+            "links": [
+                "Evercode WT Mini",
+                "Evercode WT",
+                "Evercode WT Mega",
+                "Evercode TCR Mini",
+                "Evercode TCR",
+                "Evercode TCR Mega",
+                "Gene Capture",
+                "CRISPR Detect"
+            ]
+        },
+        {
+            "title": "Company",
+            "id": 3,
+            "links": [
+                "About Parse",
+                "Future Innovation",
+                "Upcoming Events",
+                "Blog",
+                "News",
+                "Careers"
+            ]
+        },
+        {
+            "title": "Resources",
+            "id": 1,
+            "links": [
+                "Product Literature",
+                "Datasheets",
+                "Webinars",
+                "Support Suite"
+            ]
+        }
+    ],
+    "copyright": "© 2023 Parse Biosciences. All rights reserved."
+}

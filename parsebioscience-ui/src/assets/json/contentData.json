@@ -1,0 +1,32 @@
+[
+    {
+        "id": "no-instrument-required",
+        "subTitle": "bring single cell to any lab",
+        "title": "The freedom your lab craves",
+        "description": "Leave droplets behind with",
+        "subDescription": " no instrument required.",
+        "subParahContent": "Perform single cell experiments with nothing more than a pipette and common laboratory equipment.",
+        "buttonText": "Discover the technology",
+        "imageUrl": "../../assets/images/Frame.png"
+    },
+    {
+        "id": "unmatched-data-quality",
+        "subTitle": "experience high quality data",
+        "title": "The power of clear results",
+        "description": "Revel more biology with",
+        "subDescription": "unmatched data quality",
+        "subParahContent": "Sensitivity is just the start as Evercode combinatorial barcoding repeatedly produces results untainted with ambient RNA.",
+        "buttonText": "See a head-to-head comparison to droplet technology",
+        "imageUrl": "../../assets/images/Group.png"
+    },
+    {
+        "id": "fixation-cells-nuclei",
+        "subTitle": "RUN WILD WITH EXPERIMENTS ON YOUR SCHEDULE",
+        "title": "Increased flexibility with sample fixation",
+        "description": "Simplify your studies with",
+        "subDescription": "fixation of cells and nuclei",
+        "subParahContent": "Simplify planning, coordination with collaborators, and time-course experiments, while reducing lab work. All the elements of better science.",
+        "buttonText": "Fixation of cells and nuclei",
+        "imageUrl": "../../assets/images/Group-preview.png"
+    }
+]

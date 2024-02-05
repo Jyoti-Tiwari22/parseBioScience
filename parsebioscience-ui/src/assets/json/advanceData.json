@@ -1,0 +1,74 @@
+{
+    "logos": [
+        {
+            "id": "slide-instrument-required",
+            "name": "Massachusetts Institute of Technology",
+            "imageUrl": "../../assets/images/slide-1.png"
+        },
+        {
+            "id": "slide-data-quality",
+            "name": "Yale",
+            "imageUrl": "../../assets/images/slide-2.png"
+        },
+        {
+            "id": "slide-cells-nuclei",
+            "name": "The University of Texas at Austin",
+            "imageUrl": "../../assets/images/slide-3.png"
+        },
+        {
+            "id": "slide-Carolina",
+            "name": "Carolina",
+            "imageUrl": "../../assets/images/slide-4.png"
+        },
+        {
+            "id": "slide-instrument-required",
+            "name": "Massachusetts Institute of Technology",
+            "imageUrl": "../../assets/images/slide-1.png"
+        },
+        {
+            "id": "slide-data-quality",
+            "name": "Yale",
+            "imageUrl": "../../assets/images/slide-2.png"
+        },
+        {
+            "id": "slide-cells-nuclei",
+            "name": "The University of Texas at Austin",
+            "imageUrl": "../../assets/images/slide-3.png"
+        },
+        {
+            "id": "slide-Carolina",
+            "name": "Carolina",
+            "imageUrl": "../../assets/images/slide-4.png"
+        },
+        {
+            "id": "slide-data-quality",
+            "name": "Yale",
+            "imageUrl": "../../assets/images/slide-2.png"
+        },
+        {
+            "id": "slide-cells-nuclei",
+            "name": "The University of Texas at Austin",
+            "imageUrl": "../../assets/images/slide-3.png"
+        },
+        {
+            "id": "slide-Carolina",
+            "name": "Carolina",
+            "imageUrl": "../../assets/images/slide-4.png"
+        },
+        {
+            "id": "slide-data-quality",
+            "name": "Yale",
+            "imageUrl": "../../assets/images/slide-2.png"
+        },
+        {
+            "id": "slide-cells-nuclei",
+            "name": "The University of Texas at Austin",
+            "imageUrl": "../../assets/images/slide-3.png"
+        },
+        {
+            "id": "slide-Carolina",
+            "name": "Carolina",
+            "imageUrl": "../../assets/images/slide-4.png"
+        }
+    ]
+}

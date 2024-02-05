@@ -14,3 +14,302 @@
 .MainContextImage {
     background-image: url('../assets/images/Smash.png');
 }
+.MainContextImage h1 {
+    font-size: 55px;
+    line-height: 1;
+}
+
+@media (max-width: 640px) {
+    .custom-font-size {
+        font-size: 53px;
+    }
+    .mainWidthOuter{
+        width: 100% !important;
+    }
+    .curved-bottom-section::after {
+        display: none;
+    }
+    .slick-next {
+        right: 50% !important;
+    }
+    .second-article {
+        display: none;
+    }
+    .showDetails {
+        display: none;
+    }
+    .proDetail {
+        display: block !important;
+        text-decoration-line: none;
+        -moz-text-decoration-line: none;
+
+    }
+    .testiSection .slick-prev {
+        right: -48% !important;
+
+    }
+    .datasection .slick-next {
+        margin-left: 4rem !important;
+    }
+    .footerOuter:nth-child(1) {
+        margin-top: -4rem;
+    }
+
+    /* .footerOuter:nth-child(2) {
+        margin-top: 1rem;
+    } */
+    .footerOuter:nth-child(3) {
+        margin-left: 2rem;
+    }
+
+    .footerOuter:nth-child(4) {
+        margin-top: -8rem;
+    }
+
+    .footerOuter:nth-child(5) {
+        margin-left: 2rem;
+    }
+
+
+}
+@media (max-width: 960px) {
+    .second-article {
+        display: none;
+    }
+    .proDetail {
+        display: block !important;
+        text-decoration-line: none;
+        -moz-text-decoration-line: none;
+
+    }
+    .third-article {
+        margin-top: 2rem;
+    }
+}
+/* styles.css */
+.borderButton {
+    position: relative;
+    padding: 2px;
+    border: none;
+}
+
+.borderButton::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 8px;
+    background-image: linear-gradient(90deg, #7500BB 0%, #B6007C 100%);
+}
+.navBtnTesti .borderButton::before {
+    border-radius: 62px ;
+    -webkit-border-radius: 62px ;
+    -moz-border-radius: 62px ;
+    -ms-border-radius: 62px ;
+    -o-border-radius: 62px ;
+}
+.connectButton {
+    position: relative;
+    z-index: 1;
+    color: white;
+}
+.span-text{
+    font-size: 36px;
+    position: relative;
+    top: -7px;
+    margin: auto;
+}
+
+.MenuBack {
+    background-image: linear-gradient(90deg, #7500BB 0%, #B6007C 100%);
+}
+/* Add this to your style.css */
+.curved-bottom-section {
+    position: relative;
+    background-color: #F5F0F8;
+    overflow: hidden;
+}
+
+.curved-bottom-section::after {
+    content: '';
+    position: absolute;
+    bottom: -100px;
+    left: 0;
+    right: 0;
+    height: 175px;
+    background-color: #FFFFFF;
+    border-radius: 100% 100% 0 0 / 100% 100% 0 0;
+}
+
+.activeButton {
+    background-color: #25003B;
+    color: white;
+    padding: 0.5rem 1rem;
+}
+.noneActive {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #F5F0F8;
+    border: 1px solid #DBD3E1;
+    color: #25003B;
+}
+.browseData {
+    border-bottom: 1px solid #DBD3E1;
+}
+.custom-next-arrow,
+.custom-prev-arrow {
+    
+    border-radius: 15px;
+}
+
+.slick-prev, .slick-next {
+    margin: auto;
+    border-radius: 25px;
+    border: 1px solid grey !important;
+    width: 40px !important;
+    height: 40px !important;
+    left: 15px !important;
+    top:270px !important;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+.testiSection .slick-prev{
+    top: 155px !important;
+    right: -75% ;
+
+}
+.testiSection .slick-next {
+    top: 155px !important;
+    right: -88% !important;
+}
+.datasection .slick-slider, .testiSection .slick-slider {
+    padding-bottom: 2rem !important;
+}
+.data-arrow {
+    position: relative;
+    top: 11px;
+    left: 11px;
+}
+.slick-next {
+    right: 85% !important;
+}
+.first-article, .third-article {
+    background-image: linear-gradient(180deg, #59028b 20%, #25003B 70%);
+}
+.product-li {
+    padding-bottom:10px ;
+    border-bottom: 1px solid grey;
+    margin-top: 5px;
+}
+.product-li:last-child {
+    border-bottom: none;
+}
+.second-article {
+    box-shadow: none;
+}
+.second-article .product-li:first-child {
+    background-color: #DBD3E1;
+}
+.second-article .product-li {
+    color: #25003B;
+    font-weight: bold;
+}
+.second-article ul {
+    text-decoration-line: none;
+    position: relative;
+    top: 68px;
+}
+.first-article .showDetails, .third-article .showDetails {
+    display: none;
+}
+
+.proDetail {
+    display: none;
+}
+.testiSection {
+    background-image: linear-gradient(180deg, #59028b 20%, #25003B 70%);
+}
+.slick-next:before {
+    content: none !important;
+}
+.slick-prev::before {
+    content: none !important;
+}
+.blockSection {
+    margin-left: -35px;
+}
+.blockSection img{
+    width: 110px;
+}
+
+.circle {
+    background: white;
+    border-radius: 50%;
+    width: 105vh;
+    height: 105vh;
+    position: absolute;
+    top: -90px;
+    left: 300px;
+    overflow: hidden;
+}
+.outerCircle {
+    border-radius: 50%;
+    width: 125vh;
+    height: 125vh;
+    position: relative;
+    top: -250px;
+    overflow: hidden;
+    border: dashed;
+    color: #F5F0F8;
+    animation: animationOuter 25s linear infinite;
+    -webkit-animation: animationOuter 25s linear infinite;
+}
+.paraCircle {
+    position: absolute;
+    z-index: 1;
+    top: 138px;
+    left: 320px;
+}
+@keyframes animationOuter {
+    0% {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+    }
+}
+
+.partnerMain {
+    height: 70vh;
+    overflow: hidden;
+}
+.circle h1 {
+    font-size: 28px;
+}
+.advanceSection .slick-dots li.slick-active button:before {
+        opacity: 0.55 !important;
+        color: white;
+        font-size: 9px;
+        top: -15px;
+}
+.advanceSection .slick-dots li button:before {
+    opacity: 0.2;
+    color: white;
+    font-size: 9px;
+    top: -15px;
+    margin: 0;
+}
+.datasection .slick-slide {
+    width: 470px;
+}
